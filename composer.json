@@ -1,6 +1,6 @@
 {
-    "name": "monero-integrations/monerophp",
-    "description": "A Monero library written in PHP by the Monero-Integrations team.",
+    "name": "VO-valera1/monerophp",
+    "description": "A Monero library written in PHP by the Monero-Integrations team. Forked from monero-integrations/monerophp",
     "keywords": ["Monero", "XMR", "monerod", "monero-wallet-rpc", "cryptonote", "JSONRPC", "JSON-RPC", "cryptocurrency"],
     "homepage": "https://github.com/monero-integrations/monerophp",
     "type": "library",
